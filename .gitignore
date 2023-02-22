@@ -1,0 +1,38 @@
+# Compiled class files
+target/
+
+# Generated source files
+src/main/generated/
+src/test/generated/
+
+# IDE files
+.classpath
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Logs and reports
+*.log
+target/surefire-reports/
+target/failsafe-reports/
+
+# Dependency directories
+bin/
+lib/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+.idea
+allure-results
+build
+out
+target
