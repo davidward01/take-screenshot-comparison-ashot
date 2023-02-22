@@ -1,0 +1,1 @@
+# take-screenshot-comparison-ashot
